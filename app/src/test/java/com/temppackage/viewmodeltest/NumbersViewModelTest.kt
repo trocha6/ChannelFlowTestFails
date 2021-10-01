@@ -9,7 +9,7 @@ import org.junit.Rule
 import org.junit.Test
 
 @ExperimentalCoroutinesApi
-class NumbersProviderTest {
+class NumbersViewModelTest {
     @get:Rule
     var instantTaskExecutorRule = InstantTaskExecutorRule()
     @get:Rule
